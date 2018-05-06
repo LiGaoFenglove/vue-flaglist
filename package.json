@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LiGaoFenglove/vue-flaglist.git"
+    "url": "git+https://github.com/LiGaoFenglove/vue-flaglist-lgf.git"
   },
   "files": [
     "dist",
@@ -86,8 +86,8 @@
     "not ie <= 8"
   ],
   "bugs": {
-    "url": "https://github.com/LiGaoFenglove/vue-flaglist/issues"
+    "url": "https://github.com/LiGaoFenglove/vue-flaglist-lgf/issues"
   },
-  "homepage": "https://github.com/LiGaoFenglove/vue-flaglist#readme",
+  "homepage": "https://github.com/LiGaoFenglove/vue-flaglist-lgf#readme",
   "license": "MIT"
 }
